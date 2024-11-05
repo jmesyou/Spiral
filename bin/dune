@@ -1,0 +1,4 @@
+(executable
+ (public_name spiral)
+ (name main)
+ (libraries spiral))
